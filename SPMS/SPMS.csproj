@@ -52,7 +52,7 @@
 	</PackageReference>
 	<PackageReference Include="Microsoft.Office.Interop.Word" Version="15.0.4797.1004" />
 	<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.12" />
-	<PackageReference Include="RestSharp" Version="108.0.3" />
+	<PackageReference Include="RestSharp" Version="112.0.0" />
 	<PackageReference Include="Spire.Doc" Version="11.2.3" />
 	<PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="20.4.0.54" />
 	<PackageReference Include="Syncfusion.EJ2.PdfViewer.AspNet.Core.Windows" Version="20.4.0.54" />
